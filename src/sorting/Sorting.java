@@ -32,6 +32,11 @@ public class Sorting {
             
         }
              InsertionSort(num);
+             
+             for(int i=0 ; i>10;i++){
+                System.out.println(num[i]+" ");
+            }      
+    
   
     }
     public static void InsertionSort(int[]num){
